@@ -1,0 +1,18 @@
+{
+	"style": {
+		"background-color": "white",
+		"padding": 2,
+		"border": 10
+	},
+
+	"contents": [
+		{
+			"name": "hello",
+			"control": "TextView",
+			"label": "Main Menu",
+			style :{
+				"align": "center"
+			}
+		}
+	]
+}

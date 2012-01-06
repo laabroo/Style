@@ -1,0 +1,28 @@
+{
+    "style": {
+        "background-color": "white",
+        "overflow":"auto"
+    },
+
+    "contents": [
+        {
+            "name": "title",
+            "control": "TextView",
+            "label": "Updaterus",
+            "style": {
+                "color": "black",
+                "width": "fill-parent",
+                "height": "wrap-content",
+                "align": "center",
+                "valign": "top"
+            }
+        },
+        {
+            "name": "pic",
+            "control": "ImageView",
+            "width": "fill-parent",
+            "height": "fill-parent"
+        }
+
+    ]
+}
